@@ -25,7 +25,7 @@ CTR
 ROMI
 Pentru a efectua această sarcină, grupează tabelul în funcție de câmpurile ad_date și campaign_id.
 
-# BONUS-Tema-2-SQL 
+# Tema-2-BONUS-SQL 
 Dintre campaniile cu o cheltuială totală de peste 500 000 din tabelul facebook_ads_basic_daily, găsește campania cu cel mai mare ROMI.
 Rezultatul sarcinii
 
@@ -49,7 +49,7 @@ numărul de click-uri,
 valoarea totală a conversiei.
 Pentru a efectua această sarcină, grupează tabelul după câmpurile ad_date și campaign_name.
 
-# BONUS-Tema-3-SQL 
+# Tema-3-BONUS-SQL 
 Combinând datele din cele patru tabele, găsește campania cu cel mai mare ROMI dintre toate campaniile cu o cheltuială totală mai mare de 500 000.
 În cadrul acestei campanii, identifică grupul de reclame (adset_name) cu cel mai mare ROMI.
 Rezultatul sarcinii
@@ -94,7 +94,7 @@ Suma totală a cheltuielilor, numărul de afișări, numărul de click-uri, prec
 CTR, CPC, CPM, ROMI într-o anumită dată pentru o anumită campanie.
 !!! În același timp, nu folosi WHERE, ci evită eroarea de împărțire la zero prin utilizarea operatorului CASE.
 
-# BONUS-Tema-5-SQL 
+# Tema-5-BONUS-SQL 
 În interogarea pe care ai creat-o pentru sarcina principală a acestei teme, decodează valoarea lui utm_campaign prin crearea unei funcții temporare. Găsește codul funcției pe internet.
 
 Rezultatul sarcinii
